@@ -37,6 +37,7 @@ $$
  - Random Forest;
  - XGBoost;
  - CatBoost.
+
 Для подбора гиперпараметров использовались **GridSearchCV** (Random Forest) и **Optuna** (XGBoost, CatBoost).
 
 ### 5. Интерпретация модели
